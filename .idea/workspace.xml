@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="014166b8-4e69-4679-975e-2264766d9972" name="Changes" comment="Update: Added If statements">
+    <list default="true" id="014166b8-4e69-4679-975e-2264766d9972" name="Changes" comment="Update: Reading Output Returned by System commands">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mac_changer.py" afterDir="false" />
     </list>
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711270551239</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update: Reading Output Returned by System commands">
+      <option name="closed" value="true" />
+      <created>1711272578177</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711272578177</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +160,7 @@
     <MESSAGE value="Update: Code improvement" />
     <MESSAGE value="Update: Returning Values From Functions" />
     <MESSAGE value="Update: Added If statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: Added If statements" />
+    <MESSAGE value="Update: Reading Output Returned by System commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: Reading Output Returned by System commands" />
   </component>
 </project>
