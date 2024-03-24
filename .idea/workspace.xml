@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="014166b8-4e69-4679-975e-2264766d9972" name="Changes" comment="Update: Extracted a Substring Using Regex">
+    <list default="true" id="014166b8-4e69-4679-975e-2264766d9972" name="Changes" comment="Update: Add get_current_mac function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mac_changer.py" afterDir="false" />
     </list>
@@ -146,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711273347490</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update: Add get_current_mac function">
+      <option name="closed" value="true" />
+      <created>1711273971392</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711273971392</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +178,7 @@
     <MESSAGE value="Update: Added If statements" />
     <MESSAGE value="Update: Reading Output Returned by System commands" />
     <MESSAGE value="Update: Extracted a Substring Using Regex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: Extracted a Substring Using Regex" />
+    <MESSAGE value="Update: Add get_current_mac function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: Add get_current_mac function" />
   </component>
 </project>
